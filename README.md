@@ -4,12 +4,12 @@
 - 👀 I’m interested in edge computing, cloud native and more distributed systems
 - 🌱 I’m currently doing some researches and projects on container orchestration in edge computing systems
 - 📫 How to reach me
-  - Email tnnidm@gmail.com
-  - Home page www.tnnidm.com
+  - Email tnnidm@foxmail.com
+  - Home page https://www.tnnidm.com
 
-![Tnnidm's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnnidm&count_private=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnnidm)](https://github.com/anuraghazra/github-readme-stats)
+[![Tnnidm's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnnidm)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 Tnnidm/Tnnidm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
