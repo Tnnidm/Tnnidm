@@ -1,5 +1,5 @@
 ## Hi, I’m @Tnnidm
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Tnnidm)
+
 - 👋 Hi, I’m a second-year graduate in SJTU
 - 👀 I’m interested in edge computing, cloud native and more distributed systems
 - 🌱 I’m currently doing some researches and projects on container orchestration in edge computing systems
