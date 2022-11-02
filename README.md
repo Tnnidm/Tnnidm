@@ -1,7 +1,7 @@
 ## Hi, I’m @Tnnidm
 
-- 👋 Hi, I’m a second-year graduate in SJTU
-- 👀 I’m interested in edge computing, cloud native and more distributed systems
+- 👋 Hi, I’m a third-year graduate in SJTU
+- 👀 I’m interested in edge computing, cloud native, and more distributed systems
 - 🌱 I’m currently doing some researches and projects on container orchestration in edge computing systems
 - 📫 How to reach me
   - Email tnnidm@foxmail.com
