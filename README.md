@@ -1,8 +1,8 @@
-## Hi, I’m @Tnnidm
+## 👋 Hi, I’m @Tnnidm
 
-- 👋 Hi, I’m a third-year graduate in SJTU
-- 👀 I’m interested in edge computing, cloud native, and more distributed systems
-- 🌱 I’m currently doing some researches and projects on container orchestration in edge computing systems
+- 👨‍💻 I’m a software engineer in Alibaba Cloud now.
+- 👀 I’m currently working on inventory scheduling technology in Elastic Computing Service (ECS).
+- 👨‍🎓 I obtained a master's degree from Shanghai Jiao Tong University in 2023 and a bachelor's degree from Tsinghua University in 2020.
 - 📫 How to reach me
   - Email tnnidm@foxmail.com
   - Home page https://www.tnnidm.com
