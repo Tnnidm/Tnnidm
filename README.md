@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m @Tnnidm
 
 - 👨‍💻 I’m a software engineer in Alibaba Cloud now.
-- 👀 I’m currently working on inventory scheduling technology in Elastic Computing Service (ECS).
-- 👨‍🎓 I obtained a master's degree from Shanghai Jiao Tong University in 2023 and a bachelor's degree from Tsinghua University in 2020.
+- 👀 I’m currently working on VM instance scheduling in Elastic Computing Service (ECS).
+- 👨‍🎓 I obtained the B.S. degree in electronic engineering from the Tsinghua University in 2020, and the M.S. degree in computer science from Shanghai Jiao Tong University in 2023.
 - 📫 How to reach me
   - Email tnnidm@foxmail.com
   - Home page https://www.tnnidm.com
