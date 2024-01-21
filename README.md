@@ -8,7 +8,7 @@
   - Home page https://www.tnnidm.com
 
 
-![Tnnidm's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnnidm)
+[![Tnnidm's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnnidm)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
